@@ -1,8 +1,8 @@
-Problem link: https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/
+[Problem link](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
 
-Java sol:
+**Java sol:**
 
-
+```
 import java.io.*;
 
 class Main {
@@ -21,3 +21,4 @@ class Main {
 		System.out.println(min+" "+max);
 	}
 }
+```
