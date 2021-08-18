@@ -3,6 +3,7 @@
 **Java sol:**
 ```
 import java.util.Scanner;
+import java.util.lang.*;
 import java.io.*;
 class gfg
 {
