@@ -3,9 +3,9 @@
 **Java Solution**
 ```
 import java.util.Scanner;
-import java.util.lang.*;
+import java.lang.*;
 import java.io.*;
-class gfg
+class Main
 {
     public static void main(String[] args) throws IOException
     {
@@ -15,8 +15,8 @@ class gfg
         int arr[]=new int[n];
         for(int i=0;i<n;i++)
             arr[i]=sc.nextInt();
-        reverse(arr[],0,n-2);
-        reverse(arr[],0,n-1);
+        reverse(arr,0,n-2);
+        reverse(arr,0,n-1);
         for(int a:arr)
             System.out.print(a+" ");
     }
@@ -28,7 +28,7 @@ class gfg
             temp=arr[i];
             arr[i]=arr[j];
             arr[j]=temp;
-            i++;k--;
+            i++;j--;
         }
     }
 }
