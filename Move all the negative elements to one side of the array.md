@@ -1,14 +1,15 @@
 [Problem Link](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
 
-**Java sol:**
+**Java solution:**
 ```
 import java.util.Scanner;
 import java.util.lang.*;
 import java.io.*;
-class gfg
+class Main
 {
     public static void main(String[] args) throws IOException
-    {//Luv_k_sahu
+    {
+        //Luv_k_sahu
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         int arr[]=new int[n];
