@@ -8,7 +8,7 @@ You can get your copy of Love Babbar's DSA sheet from [here](https://docs.google
 Topics Covered in this repository - 
 |S.no.| Topic | Status |
 |---|---------|------|
-|1. |[Arrays](https://github.com/AdarshGeek/DSA-Sheet-Solution/tree/main/Array)| 5/37 |
+|1. |[Arrays](https://github.com/AdarshGeek/DSA-Sheet-Solution/tree/main/Array)| 7/37 |
 
 
 
