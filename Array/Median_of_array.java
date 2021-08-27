@@ -1,6 +1,5 @@
-//package Array;
+
 import java.util.*;
-import java.lang.*;
 import java.io.*;
 public class Median_of_array 
 {

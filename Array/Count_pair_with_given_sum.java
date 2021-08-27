@@ -2,7 +2,6 @@
 //Link: https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1
 
 import java.util.*;
-//import java.lang.*;
 import java.io.*;
 
 class Count_pair_with_given_sum 

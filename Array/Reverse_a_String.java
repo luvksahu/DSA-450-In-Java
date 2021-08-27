@@ -3,7 +3,6 @@
 //Link: https://practice.geeksforgeeks.org/problems/reverse-a-string/1
 
 import java.util.*;
-//import java.lang.*;
 import java.io.*;
 
 class Reverse_a_String
