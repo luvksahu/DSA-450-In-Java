@@ -1,4 +1,7 @@
+// Question : Find Median of a array
+// Problem Link: https://practice.geeksforgeeks.org/problems/find-the-median0527/1
 
+//Solution: 
 import java.util.*;
 import java.io.*;
 public class Median_of_array 
