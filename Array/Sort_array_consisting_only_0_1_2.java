@@ -1,10 +1,10 @@
-import java.io.*;
-import java.util.*;
-
 //Question: Given an array which consists of only 0,1 and 2. Sort the array
-//Problem Link: https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/
+//Problem Link: https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0
 
 //Solution:
+
+import java.io.*;
+import java.util.*;
 public class Sort_array_consisting_only_0_1_2 
 {
     public static void main(String[] args) throws IOException
