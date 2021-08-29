@@ -8,8 +8,8 @@ You can get your copy of Love Babbar's DSA sheet from [here](https://docs.google
 Topics Covered in this repository - 
 |S.no.| Topic | Status |
 |---|---------|------|
-|1. |[Arrays](https://github.com/luvksahu/DSA-450-In-Java/tree/main/Array)| 7/37 |
-|2. |[Strings](https://github.com/luvksahu/DSA-450-In-Java/tree/main/String)| 1/37 |
+|1. |[Arrays](https://github.com/luvksahu/DSA-450-In-Java/tree/main/Array)| 8/37 |
+|2. |[Strings](https://github.com/luvksahu/DSA-450-In-Java/tree/main/String)| 2/42 |
 
 
 
