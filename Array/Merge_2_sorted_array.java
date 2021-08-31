@@ -1,7 +1,7 @@
 //Question: Merge two sorted array without using extra space
 //Problem Link: https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1
 
-//Solution:
+// Solution:
 
 import java.util.*;
 import java.io.*;
