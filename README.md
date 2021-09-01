@@ -1,7 +1,7 @@
 # DSA-Question-solving
 ### In Java
 #### This repository is under developmemt and would be completed by Nov 2021(Tentative).
-This repository contains solution to all questions of Love Babbar's DSA Sheet with questions and comments in Java
+This repository contains solution to all questions of Love Babbar's DSA Sheet with questions and comments(Under Progress, will be added soon) in Java
 
 You can get your copy of Love Babbar's DSA sheet from [here](https://docs.google.com/spreadsheets/d/1vpCqP2xyKXSRLttR3TFha06efWvgoZbs/edit?usp=sharing&ouid=108314621493978613504&rtpof=true&sd=true).
 
