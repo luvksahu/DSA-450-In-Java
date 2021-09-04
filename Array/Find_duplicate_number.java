@@ -21,6 +21,7 @@ public class Find_duplicate_number {
         for(int i=0;i<=n;i++)
             arr[i]=sc.nextInt();
         System.out.println(find(arr, n));
+        sc.close();
     }
     static int find(int arr[], int n)
     {

@@ -36,6 +36,7 @@ public class Move_negative_elements_to_one_side {
         }
         for(int a:arr)
             System.out.print(a+" ");
+        sc.close();
     }
 }
 

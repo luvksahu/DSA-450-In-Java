@@ -17,6 +17,7 @@ public class Sort_array_consisting_only_0_1_2
         sort012(arr, n);
         for(int a:arr)
             System.out.print(a+" ");
+        sc.close();
     }
     public static void sort012(int a[], int n)
     {

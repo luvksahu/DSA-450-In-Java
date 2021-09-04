@@ -10,6 +10,7 @@ public class Kadanes_algo {
         for(int i=0;i<n;i++)
             arr[i]=sc.nextInt();
         System.out.println(maxsum(arr,n));
+        sc.close();
     }
     static int maxsum(int arr[],int n)
     {

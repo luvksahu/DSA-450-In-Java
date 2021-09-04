@@ -14,6 +14,7 @@ public class maximum_product_subarray {
         for(int i=0;i<n;i++)
             arr[i]=sc.nextInt();
         System.out.println(prod(arr, n));
+        sc.close();
     }
     static long prod(int arr[], int n)
     {

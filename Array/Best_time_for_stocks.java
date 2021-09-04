@@ -18,6 +18,7 @@ public class Best_time_for_stocks {
         for(int i=0;i<n;i++)
             arr[i]=sc.nextInt();
         System.out.println(find_max_profit(arr, n));
+        sc.close();
     }
     static int find_max_profit(int arr[], int n)
     {

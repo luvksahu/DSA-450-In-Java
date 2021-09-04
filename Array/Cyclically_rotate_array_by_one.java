@@ -23,6 +23,7 @@ class Cyclically_rotate_array_by_one
         reverse(arr,0,n-1);
         for(int a:arr)
             System.out.print(a+" ");
+        sc.close();
     }
     static void reverse(int arr[],int i,int j)
     {
