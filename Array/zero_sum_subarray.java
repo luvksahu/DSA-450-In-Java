@@ -14,10 +14,10 @@ public class zero_sum_subarray {
         int arr[]=new int[n];
         for(int i=0;i<n;i++)
             arr[i]=sc.nextInt();
-        System.out.println(zero(arr, n));
+        System.out.println(zerosum(arr, n));
         sc.close();
     }
-    static String zero(int arr[], int n){
+    static String zerosum(int arr[], int n){
 
         HashSet<Integer> set=new HashSet<>();
         int sum=0;
