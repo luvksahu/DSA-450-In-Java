@@ -19,7 +19,7 @@ If you find some mistakes in my code or have some better approach or better ways
 2. Clone this repository 
 3. Create a seperate branch
 4. Push the modified code in your branch 
-5. Make a pull request ( provide some reasons or explaination in comment if my code has any fault ) I will be have to merge your PR.
+5. Make a pull request ( provide some reasons or explaination in comment if my code has any fault ) I will be happy to merge your PR.
 #### Feel free to contact me for any doubt/suggestions
 [![image](https://user-images.githubusercontent.com/74068552/128004471-32cc18b7-4ce6-4faa-9536-410607433b08.png)
 ](lksahuji365@gmail.com)   [![image](https://user-images.githubusercontent.com/74068552/128004564-e85e171a-0869-4c1f-9451-eb49254e8ea9.png)
