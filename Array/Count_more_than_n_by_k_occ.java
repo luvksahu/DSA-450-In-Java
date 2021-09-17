@@ -18,6 +18,7 @@ class Count_more_than_n_by_k_occ{
         int k=sc.nextInt();
 
         System.out.println(countOccurence(arr, n, k));
+        sc.close();
     }
     static int countOccurence(int[] arr, int n, int k) 
     {
