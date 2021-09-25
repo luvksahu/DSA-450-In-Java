@@ -9,7 +9,7 @@ Topics Covered in this repository -
 |S.no.| Topic | Status |
 |---|---------|------|
 |1. |[Arrays](https://github.com/luvksahu/DSA-450-In-Java/tree/main/Array)| 16/37 |
-|2. |[Strings](https://github.com/luvksahu/DSA-450-In-Java/tree/main/String)| 2/42 |
+|2. |[Strings](https://github.com/luvksahu/DSA-450-In-Java/tree/main/String)| 5/42 |
 
 
 
