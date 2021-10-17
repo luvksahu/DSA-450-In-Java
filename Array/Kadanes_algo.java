@@ -16,7 +16,7 @@ public class Kadanes_algo {
     {
         int max=Integer.MIN_VALUE,cmax=arr[0];
 
-        for(int i=0;i<n;i++)
+        for(int i=1;i<n;i++)
         {
             cmax+=arr[i];
             if(cmax>max)
