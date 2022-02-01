@@ -25,20 +25,20 @@ public class Union_of_two_array {
     }
     static int count(int arr1[],int n,int arr2[], int m)
     {
-        HashMap<Integer, Integer> hm=new HashMap<>();
+        HashSet<Integer> hm=new HashSet<Integer>();
         int i=0,j=0;
-        while(i<n){
-            if(!hm.containsKey(arr1[i]));
-                hm.put(arr1[i],1);
+        while(i<n)
+        {
+            if(!hm.contains(a[i]))
+                hm.add(a[i]);
             i++;
         }
-        
-        while(j<m){
-            if(!hm.containsKey(arr2[j]));
-                hm.put(arr2[j],1);
-                j++;
+        while(j<m)
+        {
+            if(!hm.contains(b[j]))
+                hm.add(b[j]);
+            j++;
         }
-
         return hm.size();
     }
 }
