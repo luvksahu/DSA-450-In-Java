@@ -14,11 +14,11 @@ public class Kadanes_algo {
     }
     static int maxsum(int arr[],int n)
     {
-        int max=Integer.MIN_VALUE,cmax=arr[0];
+        int max=arr[0],cmax=0;
 
-        for(int i=1;i<n;i++)
+        for(int a:arr)
         {
-            cmax+=arr[i];
+            cmax+=a;
             if(cmax>max)
                 max=cmax;
             if(cmax<0)
