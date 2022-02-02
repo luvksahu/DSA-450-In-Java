@@ -10,6 +10,7 @@ Topics Covered in this repository -
 |---|---------|------|
 |1. |[Arrays](https://github.com/luvksahu/DSA-450-In-Java/tree/main/Array)| 20/37 |
 |2. |[Strings](https://github.com/luvksahu/DSA-450-In-Java/tree/main/String)| 5/42 |
+|2. |[Linked List](https://github.com/luvksahu/DSA-450-In-Java/tree/main/Linked%20List)| 1/35 |
 
 
 
