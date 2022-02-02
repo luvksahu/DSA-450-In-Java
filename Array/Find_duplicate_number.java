@@ -25,13 +25,14 @@ public class Find_duplicate_number {
     }
     static int find(int arr[], int n)
     {
-        HashMap<Integer, Integer> hm=new HashMap<>();
-        for(int i=0;i<=n;i++)
+        HashSet<Integer> hm=new HashSet<>();
+        for(int a:arr)
         {
-            if(hm.containsKey(arr[i]))
-                return arr[i];
-            if(!hm.containsKey(arr[i]))
-                hm.put(arr[i],1);           
+            if(hm.contains(a))
+                return a;
+            if(!hm.contains(a))
+                hm.add(a);
+            
         }
         return 0;
     }
