@@ -23,7 +23,7 @@ public class Union_of_two_array {
         System.out.println(count(arr1, n, arr2, m));
         sc.close();
     }
-    static int count(int arr1[],int n,int arr2[], int m)
+    static int count(int a[],int n,int b[], int m)
     {
         HashSet<Integer> hm=new HashSet<Integer>();
         int i=0,j=0;
